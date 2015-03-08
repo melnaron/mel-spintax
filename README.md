@@ -1,12 +1,12 @@
 # mel-spintax
 
-## Parse Spintax formatted text (Nested Spintax supported)
+### Parse Spintax formatted text (Nested Spintax supported)
 
-### Install
+#### Install
 
     npm install mel-spintax
 
-### Example
+#### Example
 
     var spintax = require('mel-spintax');
 
