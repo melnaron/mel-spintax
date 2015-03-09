@@ -1,6 +1,6 @@
 {
   "name": "mel-spintax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse Spintax formatted text (Nested Spintax supported)",
   "main": "index.js",
   "directories": {
